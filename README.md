@@ -3,10 +3,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jemish Vasoya
 =====================================================================================================================================
 
-A Professional Flutter Freelancer
+A Professional Flutter Developer
 ---------------------------------
 
-I am professional flutter freelancer.who work in this field from last 2.5 to 3 years and having good knowledge of STATE MANAGEMENTS RESPONSIVE UI WORKS BUG FIXING / IMPROVE PERFORMANCES ADDING VARIOUS ENV. IN PROJECTS also working with different kind of platforms like firebase, open CV, tensor flow, agora, one signal, razor pay, stripe, deep AR. and etc...
+I am professional flutter freelancer.who work in this field from last 4+ years and having good knowledge of STATE MANAGEMENTS RESPONSIVE UI WORKS BUG FIXING / IMPROVE PERFORMANCES ADDING VARIOUS ENV. IN PROJECTS also working with different kind of platforms like firebase, open CV, tensor flow, agora, one signal, razor pay, stripe, deep AR. and etc...
 
 * 🌍  I'm based in Surat,Gujrat,India
 * ✉️  You can contact me at [jempatellb@gmail.com](mailto:jempatellb@gmail.com)
