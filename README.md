@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jemish+Vasoya+👋;Professional+Flutter+Developer;App+Creator+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jemish+Vasoya+👋;Professional+Flutter+Developer;App+Creator+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -65,17 +65,17 @@ I am a professional Flutter Developer with 4+ years of experience specializing i
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/jemishavasoya">
-    <img src="https://github-readme-stats.vercel.app/api?username=jemishavasoya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jemishavasoya&show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/jemishavasoya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jemishavasoya&theme=tokyonight&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jemishavasoya&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&hide_border=true" alt="GitHub Streak" />
   </a>
-</div>
-<br/>
-<div align="center">
+</p>
+
+<p align="center">
   <a href="https://github.com/jemishavasoya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemishavasoya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top Languages" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemishavasoya&layout=compact&theme=dark&bg_color=1c1917&title_color=0891b2&hide_border=true" alt="Top Languages" />
   </a>
-</div>
+</p>
