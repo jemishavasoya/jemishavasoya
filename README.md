@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I am a professional Flutter Developer with 4+ years of experience specializing in state management, responsive UI, bug fixing, and performance optimization. My focus spans from deep integrations of multi-platform video playback (LG TV, Apple TV, Android TV) to automating complex data retrieval systems.
+I am a professional Flutter Developer with 7+ years of experience specializing in state management, responsive UI, bug fixing, and performance optimization. My focus spans from deep integrations of multi-platform video playback (LG TV, Apple TV, Android TV) to automating complex data retrieval systems.
 
 * 🔭 **Currently working on:** **PURE: Simple Video Player**, **MoneyChakra**, and the **OpenPromptEngineer** repository.
 * 🚀 **Tech focus:** Flutter, Dart, DRM-protected streams, Vercel deployments, and AI-driven marketing automation.
