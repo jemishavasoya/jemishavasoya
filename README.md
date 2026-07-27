@@ -67,7 +67,7 @@ I am a professional Flutter Developer with 4+ years of experience specializing i
 
 <p align="center">
   <a href="https://github.com/jemishavasoya">
-    <img src="https://github-readme-stats.vercel.app/api?username=jemishavasoya&show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jemishavasoya&show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&hide_border=true&v=1" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/jemishavasoya">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jemishavasoya&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&hide_border=true" alt="GitHub Streak" />
@@ -76,6 +76,6 @@ I am a professional Flutter Developer with 4+ years of experience specializing i
 
 <p align="center">
   <a href="https://github.com/jemishavasoya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemishavasoya&layout=compact&theme=dark&bg_color=1c1917&title_color=0891b2&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemishavasoya&layout=compact&theme=dark&bg_color=1c1917&title_color=0891b2&hide_border=true&v=1" alt="Top Languages" />
   </a>
 </p>
